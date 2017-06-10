@@ -1,0 +1,11 @@
+{
+  "name": "lekrans-npmindex",
+  "version": "0.0.3",
+  "description": "Index of my npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Lekrans",
+  "license": "ISC"
+}
